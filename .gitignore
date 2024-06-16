@@ -1,0 +1,5 @@
+.venv
+.env
+requirements.txt
+model_dir/*
+#!model_dir/fine_tuned_model
